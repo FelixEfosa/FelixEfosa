@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+gitbub copilot for free 'https://dev.to/enter?state=new-user'
 <!---
 FelixEfosa/FelixEfosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
